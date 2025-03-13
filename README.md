@@ -10,3 +10,5 @@ Download the `.alfredworkflow` file from the [latest release](https://github.com
 ### Look up NPM package
 
 Press your [Alfred hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/) and type `npm {query}`.
+
+![NPM Alfred workflow](https://github.com/user-attachments/assets/db780504-d34c-4559-a4f7-38d9da3e2999)
